@@ -1,0 +1,10 @@
+Permissions
+
+1. Camera
+Allows the app to use camera to scan QR codes and barcodes.
+
+2. Connect and disconnect from Wi-Fi
+Allows the app to connect to and disconnect from Wi-Fi access points and to make changes to device configuration for Wi-Fi networks.
+
+3. Control vibration
+Allows the app to vibrate when a QR code or a barcode is scanned.
